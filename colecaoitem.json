@@ -8,12 +8,14 @@
       "categorias": [
         {
           "titulo": "Divertida Mente - Filmes e Séries",
+          "tipo": "filmes",
           "urls": [
             "https://obaflix.click/procurar/divertidamente"
           ]
         },
         {
           "titulo": "Você também pode gostar de",
+           "tipo": "series",
           "urls": [
             "https://obaflix.click/procurar/meu%20malvado%20favorito"
           ]
@@ -28,12 +30,14 @@
       "categorias": [
         {
           "titulo": "Kung Fu Panda - Filmes",
+          "tipo": "todos",
           "urls": [
             "https://obaflix.click/procurar/kung%20fu%20panda"
           ]
         },
         {
           "titulo": "Kung Fu Panda - Séries",
+           "tipo": "serie",
           "urls": [
             "https://obaflix.click/procurar/Kung%20Fu%20Panda:%20As%20Patas%20do%20Destino"
           ]
