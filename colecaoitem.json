@@ -201,28 +201,6 @@
       ]
     },
     {
-      "titulo": "Coleção Crepúsculo",
-      "logo": "https://media.themoviedb.org/t/p/w1280/5c4JR7pIn5zz7S40xecmD6Iv0Ct.png",
-      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg",
-      "id": "Crepúsculo",
-      "categorias": [
-        {
-          "titulo": "Filmes",
-          "tipo": "grid",
-          "urls": [
-            "https://obaflix.click/procurar/Crep%C3%BAsculo"
-          ]
-        },
-        {
-          "titulo": "Talvez você goste",
-          "tipo": "grid",
-          "urls": [
-            "https://obaflix.click/procurar/vampiro"
-          ]
-        }
-      ]
-    },
-    {
       "titulo": "Coleção Transformers",
       "logo": "https://media.themoviedb.org/t/p/w1280/j8LyxBycN7eSJQXETXe3RnDIZXB.png",
       "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/41tE8QVRaOUMipMddqwsrSnFngS.jpg",
@@ -233,6 +211,21 @@
           "tipo": "grid",
           "urls": [
             "https://obaflix.click/procurar/Transformers"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Coleção Kung Fu Panda",
+      "logo": "https://media.themoviedb.org/t/p/w1280/QeAYsp12oO1o9vc1CTBDxxKgJk.png",
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
+      "id": "Kung fu",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/Kung%20Fu%20panda"
           ]
         }
       ]
