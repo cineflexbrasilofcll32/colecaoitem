@@ -154,7 +154,7 @@
       "id": "Dragon Ball",
       "categorias": [
         {
-          "titulo": "Todos",
+          "titulo": "Filmes",
           "tipo": "grid",
           "urls": [
             "https://obaflix.click/procurar/Dragon%20ball"
@@ -166,7 +166,7 @@
       "titulo": "Coleção Terror",
       "logo": "https://i.imgur.com/5aOovu6.png",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyhJfEUi8woSj5i9VrAaozzh5IeA92-QWug&usqp=CAU",
-      "id": "terror",
+      "id": "Terror",
       "categorias": [
         {
           "titulo": "Chucky",
@@ -218,6 +218,21 @@
           "tipo": "grid",
           "urls": [
             "https://obaflix.click/procurar/vampiro"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Coleção Transformers",
+      "logo": "https://media.themoviedb.org/t/p/w1280/j8LyxBycN7eSJQXETXe3RnDIZXB.png",
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/41tE8QVRaOUMipMddqwsrSnFngS.jpg",
+      "id": "Transformers",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/Transformers"
           ]
         }
       ]
