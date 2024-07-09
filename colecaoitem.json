@@ -31,6 +31,21 @@
       ]
     },
     {
+      "titulo": "Coleção Toy Story",
+      "logo": "https://media.themoviedb.org/t/p/w1280/glYYEetfAvnFYNIRY1BO4QpApwE.png",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvSzKQdna3vEghiX6ObwJGrdi5BM15IloNVAtZTru-NjKUtyv6baF0Ygu&s=10",
+      "id": "toy story",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/Toy%20story"
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Coleção Harry Potter",
       "logo": "https://media.themoviedb.org/t/p/w1280/6H0sP5d2XaqdnDuy59fwFWN7l9p.png",
       "poster": "https://media.themoviedb.org/t/p/original/gztrXVQsNwCZCEX7XyUXP3BQjUq.jpg",
