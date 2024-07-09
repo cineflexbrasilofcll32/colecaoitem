@@ -83,6 +83,28 @@
       ]
     },
     {
+      "titulo": "Coleção Star wars",
+      "logo": "https://media.themoviedb.org/t/p/w1280/rbi6qN7vbh9HcTrHuLkLxQPIy6Y.png",
+      "poster": "https://image.tmdb.org/t/p/original/atJ4mF8oJJFDAtzXvfiBouoyvQF.jpg",
+      "id": "star wars",
+      "categorias": [
+        {
+          "titulo": "Destaque",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/Star%20wars"
+          ]
+        },
+        {
+          "titulo": "Série",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/Ultimate%20Homem-Aranha"
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Coleção Cineflex",
       "logo": "https://i.imgur.com/Q8ueSmv.png",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZqUXK3RGOXGLxHx6k-dVLDxW-bh03sNMKpmLwAYbvRaEqIzEuMp8OpJD&s=10",
