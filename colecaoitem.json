@@ -19,7 +19,7 @@
       "titulo": "Coleção Kung Fu Panda",
       "logo": "https://media.themoviedb.org/t/p/w1280/iypZxEVCqOTj0aTdfhk28JJaqSd.png",
       "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
-      "id": "Kung fu panda",
+      "id": "Kung Fu panda",
       "categorias": [
         {
           "titulo": "Filmes",
@@ -32,8 +32,23 @@
           "titulo": "Séries",
           "tipo": "normal",
           "urls": [
-            "https://obaflix.click/procurar/Kung%20Fu%20Panda:%20O%20Cavaleiro%20Drag%C3%A3o",
+            "https://obaflix.click/procurar/Kung%20Fu%20Panda:%20O%20Cavaleiro%20Dragão",
             "https://obaflix.click/procurar/Kung%20Fu%20Panda:%20As%20Patas%20do%20Destino"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Coleção Meu Malvado Favorito",
+      "logo": "https://media.themoviedb.org/t/p/w1280/vJn2FALh5Ny4NxXxFk9QezwwB7w.png",
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/65QQjZNrVfTiuGp3chxx8dkfHDG.jpg",
+      "id": "Meu malvado favorito",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/meu%20malvado%20favorito"
           ]
         }
       ]
