@@ -44,6 +44,28 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Coleção Homem Aranha",
+      "logo": "https://media.themoviedb.org/t/p/w1280/fJOvcMolQUZIcOuSsogP0eBN33d.png",
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/xUa211ON8qlOuSd2XN43veAF8Jk.jpg",
+      "id": "Homem aranha",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/homem-aranha"
+          ]
+        },
+        {
+          "titulo": "Série",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/Ultimate%20Homem-Aranha"
+          ]
+        }
+      ]
     }
   ]
 }
