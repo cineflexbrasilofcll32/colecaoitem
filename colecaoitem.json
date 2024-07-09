@@ -12,33 +12,27 @@
           "urls": [
             "https://obaflix.click/procurar/divertidamente"
           ]
-        },
-        {
-          "titulo": "Você também pode gostar de",
-           "tipo": "normal",
-          "urls": [
-            "https://obaflix.click/procurar/meu%20malvado%20favorito"
-          ]
         }
       ]
     },
     {
       "titulo": "Coleção Kung Fu Panda",
-      "logo": "https://image.tmdb.org/t/p/original/QeAYsp12oO1o9vc1CTBDxxKgJk.png",
-      "poster": "https://image.tmdb.org/t/p/original/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
-      "id": "kung fu panda",
+      "logo": "https://media.themoviedb.org/t/p/w1280/iypZxEVCqOTj0aTdfhk28JJaqSd.png",
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
+      "id": "Kung Fu panda",
       "categorias": [
         {
-          "titulo": "Kung Fu Panda - Filmes",
+          "titulo": "Filmes",
           "tipo": "grid",
           "urls": [
             "https://obaflix.click/procurar/kung%20fu%20panda"
           ]
         },
         {
-          "titulo": "Kung Fu Panda - Séries",
-           "tipo": "grid",
+          "titulo": "Séries",
+          "tipo": "normal",
           "urls": [
+            "https://obaflix.click/procurar/Kung%20Fu%20Panda:%20O%20Cavaleiro%20Drag%C3%A3o",
             "https://obaflix.click/procurar/Kung%20Fu%20Panda:%20As%20Patas%20do%20Destino"
           ]
         }
