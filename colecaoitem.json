@@ -124,6 +124,28 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Coleção One Piece",
+      "logo": "https://media.themoviedb.org/t/p/w1280/9F7daAmibx8ZHTE17CdM5FAwiHE.png",
+      "poster": "https://media.themoviedb.org/t/p/original/yBYDzzmNoT5uXkXo3NGatLIANYK.jpg",
+      "id": "One piece",
+      "categorias": [
+        {
+          "titulo": "Todos",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/One%20piece"
+          ]
+        },
+        {
+          "titulo": "Live Action",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/ONE%20PIECE:%20A%20S%C3%A9rie"
+          ]
+        }
+      ]
     }
   ]
 }
