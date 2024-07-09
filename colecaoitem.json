@@ -154,10 +154,48 @@
       "id": "Dragon Ball",
       "categorias": [
         {
-          "titulo": "Filmes & Animes",
+          "titulo": "Todos",
           "tipo": "grid",
           "urls": [
             "https://obaflix.click/procurar/Dragon%20ball"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Coleção Terror",
+      "logo": "https://i.imgur.com/5aOovu6.png",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyhJfEUi8woSj5i9VrAaozzh5IeA92-QWug&usqp=CAU",
+      "id": "terror",
+      "categorias": [
+        {
+          "titulo": "Chucky",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/Chucky"
+          ]
+        },
+        {
+          "titulo": "Sexta 13",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/Sexta-feira%2013"
+          ]
+        },
+        {
+          "titulo": "Terror em Animação",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/A%20casa%20monstro",
+            "https://obaflix.click/procurar/Coraline",
+            "https://obaflix.click/procurar/Noiva%20cadaver"
+          ]
+        },
+        {
+          "titulo": "Filmes & Séries",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/genero/terror"
           ]
         }
       ]
