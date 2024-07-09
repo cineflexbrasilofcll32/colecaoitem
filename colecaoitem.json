@@ -129,7 +129,7 @@
       "titulo": "Coleção One Piece",
       "logo": "https://media.themoviedb.org/t/p/w1280/9F7daAmibx8ZHTE17CdM5FAwiHE.png",
       "poster": "https://media.themoviedb.org/t/p/original/yBYDzzmNoT5uXkXo3NGatLIANYK.jpg",
-      "id": "one piece",
+      "id": "One piece",
       "categorias": [
         {
           "titulo": "Todos",
@@ -143,6 +143,21 @@
           "tipo": "normal",
           "urls": [
             "https://obaflix.click/procurar/ONE%20PIECE:%20A%20S%C3%A9rie"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Coleção Dragon Ball",
+      "logo": "https://media.themoviedb.org/t/p/w1280/3gvOVOXelfgoCwB7cpvqTak7n19.png",
+      "poster": "https://media.themoviedb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg",
+      "id": "Dragon Ball",
+      "categorias": [
+        {
+          "titulo": "Todos",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/Dragon%20ball"
           ]
         }
       ]
