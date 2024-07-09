@@ -166,7 +166,7 @@
       "titulo": "Coleção Terror",
       "logo": "https://i.imgur.com/5aOovu6.png",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyhJfEUi8woSj5i9VrAaozzh5IeA92-QWug&usqp=CAU",
-      "id": "terror",
+      "id": "Terror",
       "categorias": [
         {
           "titulo": "Chucky",
@@ -196,6 +196,28 @@
           "tipo": "normal",
           "urls": [
             "https://obaflix.click/genero/terror"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Coleção Crepúsculo",
+      "logo": "https://media.themoviedb.org/t/p/w1280/5c4JR7pIn5zz7S40xecmD6Iv0Ct.png",
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg",
+      "id": "Crepúsculo",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/Crep%C3%BAsculo"
+          ]
+        },
+        {
+          "titulo": "Talvez você goste",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/vampiro"
           ]
         }
       ]
