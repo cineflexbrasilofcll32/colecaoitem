@@ -1,0 +1,52 @@
+{
+  "colecoes": [
+    {
+      "id": "Divertidamente",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_11-23-54-860.jpg"
+    },
+    {
+      "id": "Kung fu panda",
+      "imagem": "https://github.com/lucasaaltbr23/colecoes/blob/main/Picsart_24-07-08_11-34-33-997.jpg?raw=true"
+    },
+    {
+      "id": "Meu malvado favorito",
+      "imagem": "https://github.com/lucasaaltbr23/colecoes/blob/main/Picsart_24-07-08_11-56-31-024.jpg?raw=true"
+    },
+    {
+      "id": "Cineflex",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_11-42-25-386.jpg"
+    },
+    {
+      "id": "Harry potter",
+      "imagem": "https://github.com/lucasaaltbr23/colecoes/blob/main/Picsart_24-07-08_11-47-19-426.jpg?raw=true"
+    },
+    {
+      "id": "Homem aranha",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_12-09-10-687.jpg"
+    },
+    {
+      "id": "Velozes e furiosos",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_13-35-29-614.jpg"
+    },
+    {
+      "id": "One Piece",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_12-14-44-554.jpg"
+    },
+    {
+      "id": "Dragon Ball",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_12-32-06-004.jpg"
+    },
+    {
+      "id": "terror",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/IMG_20240708_164720.jpg"
+    },
+    {
+      "id": "Crepúsculo",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/IMG_20240708_164607.jpg"
+    },
+    {
+      "id": "Transformers",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/IMG_20240708_164628.jpg"
+    }
+  ]
+}
