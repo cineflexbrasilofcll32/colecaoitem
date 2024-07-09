@@ -1,0 +1,18 @@
+{
+  "categoria1": {
+    "titulo": "Filmes recentes",
+    "url": "https://obaflix.click/"
+  },
+  "categoria2": {
+    "titulo": "Series recentes",
+    "url": "https://obaflix.click/"
+  },
+  "categoria3": {
+    "titulo": "Divertidamente - Emoções em Ação",
+    "url": "https://obaflix.click/procurar/Divertidamente"
+  },
+  "categoria4": {
+    "titulo": "Kung Fu Panda - A Jornada do Dragão Guerreiro",
+    "url": "https://obaflix.click/procurar/Kung%20Fu%20panda"
+  }
+}
