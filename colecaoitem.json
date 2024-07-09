@@ -109,6 +109,21 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Coleção Velozes e Furiosos",
+      "logo": "https://media.themoviedb.org/t/p/w1280/whC2rCtwQLwqT2GyJAGTHTakCtX.png",
+      "poster": "https://media.themoviedb.org/t/p/original/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
+      "id": "Velozes e furiosos",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/Velozes%20e%20furiosos"
+          ]
+        }
+      ]
     }
   ]
 }
