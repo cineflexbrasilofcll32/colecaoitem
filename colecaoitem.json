@@ -66,6 +66,49 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Coleção Cineflex",
+      "logo": "https://i.imgur.com/Q8ueSmv.png",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZqUXK3RGOXGLxHx6k-dVLDxW-bh03sNMKpmLwAYbvRaEqIzEuMp8OpJD&s=10",
+      "id": "Cineflex",
+      "categorias": [
+        {
+          "titulo": "Lançamentos",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/Divertidamente%202",
+            "https://obaflix.click/procurar/Meu%20malvado%20favorito%204",
+            "https://obaflix.click/procurar/Fazendo%20meu%20filme",
+            "https://obaflix.click/procurar/Irm%C3%A3os%20sun",
+            "https://obaflix.click/procurar/Solo%20leveling",
+            "https://obaflix.click/procurar/Renascer"
+          ]
+        },
+        {
+          "titulo": "Mais assistido no Cineflex",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/procurar/Divertidamente%202",
+            "https://obaflix.click/procurar/Meu%20malvado%20favorito%204",
+            "https://obaflix.click/procurar/Atrav%C3%A9s%20da%20Minha%20Janela:%20Olhos%20nos%20Olhos"
+          ]
+        },
+        {
+          "titulo": "Dorama",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/genero/dorama"
+          ]
+        },
+        {
+          "titulo": "Aventura",
+          "tipo": "normal",
+          "urls": [
+            "https://obaflix.click/genero/aventura"
+          ]
+        }
+      ]
     }
   ]
 }
