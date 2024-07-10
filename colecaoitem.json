@@ -25,7 +25,8 @@
           "titulo": "Filmes",
           "tipo": "grid",
           "urls": [
-            "https://obaflix.click/procurar/meu%20malvado%20favorito"
+            "https://obaflix.click/procurar/meu%20malvado%20favorito",
+            "https://obaflix.click/procurar/Curtas"
           ]
         }
       ]
