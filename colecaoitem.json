@@ -32,6 +32,21 @@
       ]
     },
     {
+      "titulo": "Coleção Panico",
+      "logo": "https://media.themoviedb.org/t/p/w1280/vJn2FALh5Ny4NxXxFk9QezwwB7w.png",
+      "poster": "https://media.themoviedb.org/t/p/original/65QQjZNrVfTiuGp3chxx8dkfHDG.jpg",
+      "id": "panico",
+      "categorias": [
+        {
+          "titulo": "Filmes",
+          "tipo": "grid",
+          "urls": [
+            "https://obaflix.click/procurar/Panico"
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Coleção Toy Story",
       "logo": "https://media.themoviedb.org/t/p/w1280/glYYEetfAvnFYNIRY1BO4QpApwE.png",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtWVTMVEQerur9xL6J_qlfYr05gvN07ZIuYPDEdblgJMtm6c-Dl_ySiyK&s=10",
