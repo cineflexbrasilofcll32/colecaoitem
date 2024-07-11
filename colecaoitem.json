@@ -101,21 +101,22 @@
     {
       "titulo": "Coleção Batman",
       "logo": "https://media.themoviedb.org/t/p/w1280/iOvWsfLzMxGea3ThwNjEc2mBYGo.png",
-      "poster": "https://obaflix.click/procurar/Batman",
+      "poster": "https://image.tmdb.org/t/p/original/zF9iebmAn1a3ETjwoPWo5qxQq0f.jpg",
       "id": "batman",
       "categorias": [
         {
           "titulo": "Filmes",
           "tipo": "grid",
           "urls": [
-            "https://obaflix.click/procurar/homem-aranha"
+            "https://obaflix.click/procurar/Batman"
           ]
         },
         {
           "titulo": "Série",
           "tipo": "normal",
           "urls": [
-            "https://obaflix.click/procurar/Ultimate%20Homem-Aranha"
+            "https://obaflix.click/procurar/o+Batman",
+            "https://obaflix.click/procurar/Batman:+A+série+animada"
           ]
         }
       ]
